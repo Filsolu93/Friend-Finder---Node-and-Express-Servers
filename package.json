@@ -1,0 +1,24 @@
+{
+    "name": "friend-finder",
+    "version": "8.0.16",
+    "description": "root",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Filsolu93/Friend-Finder---Node-and-Express-Servers"
+        
+    "author": "FILMON HABTU",
+    "license": "root",
+    "bugs": {
+        "url": "https://github.com/Filsolu93/Friend-Finder---Node-and-Express-Servers"
+    },
+    "homepage": "",
+    "dependencies": {
+        "body-parser": "^1.15.2",
+        "express": "^4.14.0",
+        "path": "^0.12.7"
+    }
+}
