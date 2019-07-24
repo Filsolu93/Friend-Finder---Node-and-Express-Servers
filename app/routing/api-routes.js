@@ -59,3 +59,4 @@ module.exports = function (app) {
             // return the best match friend
             res.json(bestMatch);
         });
+}
